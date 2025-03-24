@@ -1,0 +1,14 @@
+.aider*
+try-scipy/
+classification.csv
+fix_pickle.py/ hello_word.py
+fix_pickle.py hello_word.py
+fix_pickle.py
+*hello_word.py
+mnistloader.py
+*hellomom.py
+*network.py
+*neural-networks-and-deep-learning/
+*pls run.py
+*synthemol_test1.py
+mnist_loader.py
